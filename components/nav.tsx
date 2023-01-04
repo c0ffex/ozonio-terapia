@@ -1,7 +1,7 @@
 import React, { Fragment, useState } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
-import { navLinks } from '../pages/constants'
+import { navLinks } from './constants'
 import Image from 'next/image'
 import a from 'pages/assets/poggers_1.png'
 
